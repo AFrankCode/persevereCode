@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    margin:0px 0px 24px;
+}
+
+div.container {
+    display: grid;
+    justify-content: center;
+    margin-top: 103px;
+    margin-bottom: 25px;
+}
+div.gimage {
+    display: grid;
+    justify-content: center;
+}
+div.checking {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+a.link {
+    text-decoration: none;
+}
+#click {
+    color: blue;
+}
